@@ -1,4 +1,18 @@
-## Hi there 👋
+## Hi there 👋 ，I'm xiaoxue
+
+- 📫 How to reach me: xiaoxuew895@gmail.com
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Xiaoxue895&show_icons=true&theme=transparent)
+
+MY SKILL SET NOW
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Xiaoxue895&layout=compact&theme=transparent)
+
+You are my
+![](https://komarev.com/ghpvc/?username=Xiaoxue895&label=Profile+Views&color=brightgreen)
+visitor,thank you! ❤️
+
+
 
 <!--
 **Xiaoxue895/Xiaoxue895** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
