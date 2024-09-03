@@ -5,9 +5,6 @@
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Xiaoxue895&show_icons=true&theme=transparent&count_private=true)
 
 
-MY SKILL SET NOW
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Xiaoxue895&layout=compact&theme=transparent&count_private=true)
 
 
 You are my
