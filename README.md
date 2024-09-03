@@ -2,7 +2,8 @@
 
 - 📫 How to reach me: xiaoxuew895@gmail.com
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Xiaoxue895&show_icons=true&theme=transparent)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Xiaoxue895&show_icons=true&theme=transparent&count_private=true)
+
 
 MY SKILL SET NOW
 
