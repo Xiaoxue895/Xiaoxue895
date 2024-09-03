@@ -7,7 +7,8 @@
 
 MY SKILL SET NOW
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Xiaoxue895&layout=compact&theme=transparent)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Xiaoxue895&layout=compact&theme=transparent&count_private=true)
+
 
 You are my
 ![](https://komarev.com/ghpvc/?username=Xiaoxue895&label=Profile+Views&color=brightgreen)
