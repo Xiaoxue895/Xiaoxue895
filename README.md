@@ -2,7 +2,7 @@
 
 - 📫 How to reach me: xiaoxuew895@gmail.com
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Xiaoxue895&show_icons=true&theme=transparent&count_private=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Xiaoxue895&show_icons=true&theme=transparent)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xiaoxue895&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
