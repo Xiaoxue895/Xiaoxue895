@@ -1,12 +1,9 @@
 ## Hi there 👋 ，I'm xiaoxue
 
-- 📫 How to reach me: xiaoxuew895@gmail.com
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Xiaoxue895&show_icons=true&theme=transparent)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xiaoxue895&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
+### How to reach me: 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xiaoxue-alice-wang-33b70b313/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xiaoxuew895@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23433878?style=for-the-badge)](https://alice-wang-portfolio.netlify.app/)
 
 
 You are my
