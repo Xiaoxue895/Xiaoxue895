@@ -4,8 +4,8 @@
 - 👩‍💻 I’m a full-stack software engineer with a passion for building impactful web applications
 - 🏠 I moved to the United States a year ago and currently reside in Los Angeles/San Francisco
 - 💼 I have previous experience in FOF investment and data analysis in China
-- 🌱 I’m always curious about new things and can quickly learn new technologies. I integrated DeepSeek’s AI assistant into my projects.
-- 🐱 In my personal life, I have three cats, the oldest being 9 years old. I love anime, music, and hiking, especially mushroom picking. I also studied the differences between Eastern and Western astrology and built an Eastern fortune-telling website for my mom.
+- 🌱 I’m always curious about new things and can quickly learn new technologies
+- 🐱 In my personal life, I have three cats, the oldest being 10 years old. I love anime, music, and hiking, especially mushroom picking. I also studied the differences between Eastern and Western astrology and built an Eastern fortune-telling website for my mom.
 - 🛠 I enjoy debugging even more than regular programming.
 
 ### How to reach me: 
