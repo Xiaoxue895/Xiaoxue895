@@ -9,7 +9,7 @@
 - 🛠 I enjoy debugging even more than regular programming.
 
 ### How to reach me: 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xiaoxue-alice-wang-33b70b313/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alice-wang-33b70b313/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xiaoxuew895@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23433878?style=for-the-badge)](https://alice-wang-portfolio.netlify.app/)
 
